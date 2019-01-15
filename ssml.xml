@@ -1,0 +1,6 @@
+<Response>
+    <Speak voice="MAN" language = "nb-NO">Go Green, Go Pleevo</Speak> //Basic Text-to-Speech
+    <Speak voice="Polly.Joey">
+        <emphasis level="moderate">Go Green, Go Pleevo</emphasis> //Text-to-Speech using SSML
+    </Speak>
+</Response>
